@@ -1,6 +1,6 @@
 ## How to get Bowen (or any other radio broadcaster) synced to your TV
 
-**The following is for PCs/Windows machines**
+**The following is for PC/Windows machines**
 
 For Mac, you can use <a href="http://www.silentway.com/forum/how-sync-radio-tv-simulcast-simple-free-method" target="new">this method</a>. I haven't tested, but thought I'd include it anyways as a fellow Mac user. 
 
