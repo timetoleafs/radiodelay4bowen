@@ -6,7 +6,7 @@ For Mac, you can use this method (http://www.silentway.com/forum/how-sync-radio-
 
 Apologies Linux users, I don't have a method for you, but if you're using Linux, something tells me you're more than capable of finding a way ;)
 
-**REQUIREMENTS:
+#REQUIREMENTS:
 
 Audio: ipad, phone, computer, receiver, or any other device where you can get SN590 or TSN1050 feed of Bowen's call and an audio cable*
 
@@ -18,7 +18,7 @@ Virtual Audio Cable* if you plan on using your computer to get the radio broadca
 
 	* You DON'T need this if you're using an external audio device 
 
-**STEPS:
+#STEPS:
 
 STEP ONE:
 
