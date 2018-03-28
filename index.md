@@ -12,9 +12,9 @@ Audio: ipad, phone, computer, receiver, or any other device where you can get SN
 
 	* Depending on your device you may need an audio cable to connect it to your 	computer, so either a 3.5mm cable (for headphone/aux/line outputs), a TosLink, HMDI etc. If you're using the same computer to delay the radio feed and play the audio, 	you don't need a cable.
 
-Radio Delay: http://www.daansystems.com/radiodelay/
+Radio Delay: <a href="http://www.daansystems.com/radiodelay/" target="new">daansystems.com/radiodelay/</a>
 
-Virtual Audio Cable* if you plan on using your computer to get the radio broadcast: https://www.vb-audio.com/Cable/
+Virtual Audio Cable* if you plan on using your computer to get the radio broadcast: <a href="https://www.vb-audio.com/Cable/" target="new">vb-audio.com/Cable/</a>
 
 	* You DON'T need this if you're using an external audio device 
 
@@ -53,9 +53,9 @@ If you want listen to the intermission through the TV broadcast instead of the r
 
 <img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/radiodelay.jpg">
 
-3) Under "Delay in seconds" either use the slider, or use the input box to set the delay time to get it pefectly in sync with the video.
+3) Under _Delay in seconds_ either use the slider, or use the input box to set the delay time to get it pefectly in sync with the video.
 
-4) Hit the play button under "Control"
+4) Hit the play button under **Control**
 
 And voila! You now have the sweet dolcet tones of Bowen's "Holy Mackinaws!" "Wee Willy Nylander," "Bless you boys!" etc. etc. etc. pumping through your speakers as your play by play all in sync with your video.
 
@@ -63,6 +63,6 @@ ________________________________________
 
 MBL.tv, which also handles NHL.tv/Gamecenter, have a feature called "Audio Overlay" that allows the user to use a radio broadcast of their choice over the live video and syncs it for you.
 
-I encourage all who subscribe to Gamecenter/NHL.tv to email and let them know you want it. Then we dont have to don't to worry and fiddle with all these steps.
+I encourage all who subscribe to Gamecenter/NHL.tv to contact them and let them know you want it. Then we dont have to don't to worry and fiddle with all these steps.
 
-* I have no association with either app developer. If you feel like Virtual Audio Cable is worth it, donate to help support the devs. 
+* I have no association with either app developer. If you feel like the apps are worth it, donate to help support the devs. 
