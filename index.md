@@ -39,6 +39,8 @@ Virtual Audio Cable* if you plan on using your computer to get the radio broadca
 4) You will see a list of sound options, one of them being "Cable Input - VB - Audio Virtual Cable". Select it and click "Set Default." If this option is greyed out, right-click "Cable Input - VB - Audio Virtual Cable" and choose "enable."
 	
 	*The feed will stop. DON'T WORRY ;) This is part of the magic.
+	
+<img src="images/sound.jpg" />
 
 If you want listen to the intermission through the TV broadcast instead of the radio or when the game is done, just switch the audio input like you did in section 3 & 4 back to it's original settings. Follow section 3 & 4 again when intermission is done. 
 
