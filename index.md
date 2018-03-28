@@ -49,7 +49,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 	
 	Sound will stop coming from your speakers. DON'T WORRY. This is part of the magic.
 
-If you want listen to the intermission through the TV broadcast instead of the radio or when the game is done, just switch the audio input like you did in section 3 & 4 back to it's original settings. Follow section 3 & 4 again when intermission is done. 
+If you want listen to the intermission from the TV broadcast instead of the radio or when the game is done, just switch the audio input like you did in section 3 & 4 back to it's original settings. Follow section 3 & 4 again when intermission is done. 
 
 
 **Part Three:**
@@ -70,6 +70,8 @@ ________________________________________
 
 MBL.tv, which also handles NHL.tv/Gamecenter, have a feature called "Audio Overlay" that allows the viewer to use a synced radio broadcast of their choice over the live video.
 
-I encourage all who subscribe to Gamecenter/NHL.tv to let them know you want it. Then we dont have to don't to worry and fiddle with all these steps.
+I encourage all who subscribe to Gamecenter/NHL.tv to let them know you want it.
+
+________________________________________
 
 _I have no association with either app developer. If you feel the apps are worth it, donate/buy and support the devs._ 
