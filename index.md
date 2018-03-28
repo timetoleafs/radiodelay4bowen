@@ -62,8 +62,8 @@ And voila! You now have the sweet dolcet tones of Bowen's "Holy Mackinaws!" "Wee
 
 ________________________________________
 
-MBL.tv, which also handles NHL.tv/Gamecenter, have a feature called "Audio Overlay" that allows the user to use a radio broadcast of their choice over the live video and syncs it for you.
+MBL.tv, which also handles NHL.tv/Gamecenter, have a feature called "Audio Overlay" that allows the viewer to use a synced radio broadcast of their choice over the live video.
 
-I encourage all who subscribe to Gamecenter/NHL.tv to contact them and let them know you want it. Then we dont have to don't to worry and fiddle with all these steps.
+I encourage all who subscribe to Gamecenter/NHL.tv to let them know you want it. Then we dont have to don't to worry and fiddle with all these steps.
 
 _I have no association with either app developer. If you feel like the apps are worth it, donate/buy and support the devs._ 
