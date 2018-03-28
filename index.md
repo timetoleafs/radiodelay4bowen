@@ -66,4 +66,4 @@ MBL.tv, which also handles NHL.tv/Gamecenter, have a feature called "Audio Overl
 
 I encourage all who subscribe to Gamecenter/NHL.tv to contact them and let them know you want it. Then we dont have to don't to worry and fiddle with all these steps.
 
-* _I have no association with either app developer. If you feel like the apps are worth it, donate/buy and support the devs._ 
+_I have no association with either app developer. If you feel like the apps are worth it, donate/buy and support the devs._ 
