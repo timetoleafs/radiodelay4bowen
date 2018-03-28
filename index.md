@@ -40,7 +40,7 @@ Virtual Audio Cable* if you plan on using your computer to get the radio broadca
 	
 	*The feed will stop. DON'T WORRY ;) This is part of the magic.
 	
-<img src="https://github.com/timetoleafs/radiodelay4bowen/images/sound.JPG" width=300px>
+<img src="https://github.com/timetoleafs/radiodelay4bowen/tree/master/images/sound.JPG" width=300px>
 
 If you want listen to the intermission through the TV broadcast instead of the radio or when the game is done, just switch the audio input like you did in section 3 & 4 back to it's original settings. Follow section 3 & 4 again when intermission is done. 
 
