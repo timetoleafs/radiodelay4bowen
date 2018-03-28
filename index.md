@@ -35,7 +35,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 
 
-**Part Two** - *Only follow if you're using your PC for the radio broadcast AND the radio delay*:
+**Part Two:** *Only follow if you're using your PC for the radio broadcast AND the radio delay*
 
 1) Download and install Virtual Audio Cable if you haven't done so already, then open it. 
 
