@@ -22,7 +22,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 2 Virtual Audio Cable* if you plan on using your computer to get the radio broadcast: <a href="https://www.vb-audio.com/Cable/" target="new">vb-audio.com/Cable/</a>
 
-	* You DON'T need this if you're using an external audio device 
+	* You DON'T need Virtual Audio Cable if you're using an external audio device 
 
 ### SETUP:
 
