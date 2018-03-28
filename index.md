@@ -20,6 +20,7 @@ Virtual Audio Cable* if you plan on using your computer to get the radio broadca
 
 ### STEPS:
 
+
 **STEP ONE:**
 
 1) If you're using an external device, connect your audio device to your PC via headphone jack or line/aux out to "line in" on your PC. Or if you're using a receiver to get OTA (over the air) radio you can connect to you PC via the TosLink or HDMI etc. Otherwise use a radio feed from the web via a web browser or an app of your choosing.
@@ -40,7 +41,7 @@ Virtual Audio Cable* if you plan on using your computer to get the radio broadca
 	
 	*The feed will stop. DON'T WORRY ;) This is part of the magic.
 	
-<img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/sound.jpg>
+<img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/sound.jpg">
 
 If you want listen to the intermission through the TV broadcast instead of the radio or when the game is done, just switch the audio input like you did in section 3 & 4 back to it's original settings. Follow section 3 & 4 again when intermission is done. 
 
