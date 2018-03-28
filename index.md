@@ -45,7 +45,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 4) You will see a list of sound options, one of them being "Cable Input - VB - Audio Virtual Cable". Select it and click "Set Default." If this option is greyed out, right-click **Cable Input - VB - Audio Virtual Cable** and choose **Enable**.
 	
-	*The feed will stop. DON'T WORRY ;) This is part of the magic.
+	*Sound will stop coming from your speakers. DON'T WORRY. This is part of the magic.
 	
 <img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/sound.jpg">
 
