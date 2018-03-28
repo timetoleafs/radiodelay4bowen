@@ -22,7 +22,7 @@ Virtual Audio Cable* if you plan on using your computer to get the radio broadca
 
 **STEP ONE:**
 
-1a) If you're using an external device, connect your audio device to your PC via headphone jack or line/aux out to "line in" on your PC. Or if you're using a receiver to get OTA (over the air) radio you can connect to you PC via the TosLink or HDMI etc. Otherwise use a radio feed from the web via a web browser or an app of your choosing.
+1) If you're using an external device, connect your audio device to your PC via headphone jack or line/aux out to "line in" on your PC. Or if you're using a receiver to get OTA (over the air) radio you can connect to you PC via the TosLink or HDMI etc. Otherwise use a radio feed from the web via a web browser or an app of your choosing.
 
 2) Queue up for radio broadcast to test and make sure you're getting sound through your speakers
 
