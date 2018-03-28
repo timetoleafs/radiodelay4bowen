@@ -1,6 +1,6 @@
 ## How to get Bowen (or any other radio broadcaster) synced to your TV
 
-The following is for PCs/Windows machines. 
+**The following is for PCs/Windows machines**
 
 For Mac, you can use <a href="http://www.silentway.com/forum/how-sync-radio-tv-simulcast-simple-free-method" target="new">this method</a>. I haven't tested, but thought I'd include it anyways as a fellow Mac user. 
 
@@ -10,7 +10,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 Audio: ipad, phone, computer, receiver, or any other device where you can get SN590 or TSN1050 feed of Bowen's call and an audio cable*
 
-	* Depending on your device you may need an audio cable to connect it to your 	computer, so either a 3.5mm cable (for headphone/aux/line outputs), a TosLink, HMDI etc. If you're using the same computer to delay the radio feed and play the audio, 	you don't need a cable.
+	* Depending on your device you may need an audio cable to connect it to your computer, so either a 3.5mm cable (for headphone/aux/line outputs), a TosLink, HMDI etc. If you're using the same computer to delay the radio feed and play the audio, you don't need a cable.
 
 Radio Delay: <a href="http://www.daansystems.com/radiodelay/" target="new">daansystems.com/radiodelay/</a>
 
@@ -34,9 +34,9 @@ Virtual Audio Cable* if you plan on using your computer to get the radio broadca
 
 2) Have the radio broadcast playing
 
-3) In the taskbar, right-click the speaker icon (usually found on the bottom left on the taskbar) and click "Playback devices"
+3) In the taskbar, right-click the speaker icon (usually found on the bottom left on the taskbar) and click **Playback devices**
 
-4) You will see a list of sound options, one of them being "Cable Input - VB - Audio Virtual Cable". Select it and click "Set Default." If this option is greyed out, right-click "Cable Input - VB - Audio Virtual Cable" and choose "enable."
+4) You will see a list of sound options, one of them being "Cable Input - VB - Audio Virtual Cable". Select it and click "Set Default." If this option is greyed out, right-click **Cable Input - VB - Audio Virtual Cable** and choose **Enable**.
 	
 	*The feed will stop. DON'T WORRY ;) This is part of the magic.
 	
@@ -53,7 +53,7 @@ If you want listen to the intermission through the TV broadcast instead of the r
 
 <img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/radiodelay.jpg">
 
-3) Under _Delay in seconds_ either use the slider, or use the input box to set the delay time to get it pefectly in sync with the video.
+3) Under **Delay in seconds** either use the slider, or use the input box to set the delay time to get it pefectly in sync with the video.
 
 4) Hit the play button under **Control**
 
@@ -65,4 +65,4 @@ MBL.tv, which also handles NHL.tv/Gamecenter, have a feature called "Audio Overl
 
 I encourage all who subscribe to Gamecenter/NHL.tv to contact them and let them know you want it. Then we dont have to don't to worry and fiddle with all these steps.
 
-* I have no association with either app developer. If you feel like the apps are worth it, donate to help support the devs. 
+* _I have no association with either app developer. If you feel like the apps are worth it, donate/buy and support the devs._ 
