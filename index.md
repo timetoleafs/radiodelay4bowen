@@ -51,7 +51,7 @@ If you want listen to the intermission through the TV broadcast instead of the r
 
 2) Under "Input Device" choose "VB-Audio Virtual" from the drop-down menu. "Output" should be your speakers you'll be listening through
 
-<img src="https://timetoleafs.github.io/radiodelay4bowen/images/radiodelay.JPG" width=300px>
+<img src="https://github.com/timetoleafs/radiodelay4bowen/blob/master/images/radiodelay.JPG" width=300px>
 
 3) Under "Delay in seconds" either use the slider, or use the input box to set the delay time to get it pefectly in sync with the video.
 
