@@ -8,7 +8,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 ### REQUIREMENTS:
 
-Audio: ipad, phone, computer, receiver, or any other device where you can get SN590 or TSN1050 feed of Bowen's call and an audio cable*
+Audio: ipad, phone, computer, receiver, or any other device with an output (headphone jack, aux/line out etc.) where you can get SN590 or TSN1050 feed of Bowen's call and an audio cable*
 
 	* Depending on your device you may need an audio cable to connect it to your computer, so either a 3.5mm cable (for headphone/aux/line outputs), a TosLink, HMDI etc. If you're using the same computer to delay the radio feed and play the audio, you don't need a cable.
 
