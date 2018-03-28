@@ -41,7 +41,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 2) Have the radio broadcast playing
 
-3) In the taskbar, right-click the speaker icon (usually found on the bottom left on the taskbar) and click **Playback devices**
+3) In the taskbar, right-click the speaker icon (usually found on the bottom right on the taskbar) and click **Playback devices**
 
 4) You will see a list of sound options, one of them being "Cable Input - VB - Audio Virtual Cable". Select it and click "Set Default." If this option is greyed out, right-click **Cable Input - VB - Audio Virtual Cable** and choose **Enable**.
 	
@@ -54,7 +54,7 @@ If you want listen to the intermission through the TV broadcast instead of the r
 
 **Part Three:**
 
-1) Download Open Radio Delay
+1) Download and install Radio Delay if you haven't done so already, then open it.
 
 2) Under **Input Device** choose **VB-Audio Virtual** from the drop-down menu. **Output** should be your speakers you'll be listening through.
 
