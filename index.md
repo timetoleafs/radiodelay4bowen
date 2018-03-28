@@ -58,7 +58,7 @@ If you want listen to the intermission through the TV broadcast instead of the r
 
 4) Hit the play button under **Control**
 
-And voila! You now have the sweet dolcet tones of Bowen's "Holy Mackinaws!" "Wee Willy Nylander," "Bless you boys!" etc. etc. etc. pumping through your speakers as your play by play all in sync with your video.
+Holy Mackinaw! You now have the sweet dolcet tones of Bowen's call pumping through your speakers all in sync with the video feed.
 
 ________________________________________
 
