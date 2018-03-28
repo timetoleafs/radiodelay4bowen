@@ -29,9 +29,9 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 **Part One:**
 
-1) If you're using an external device, connect your audio device to your PC via headphone jack or line/aux out to "line in" on your PC. Or if you're using a receiver to get OTA (over the air) radio you can connect to you PC via the TosLink or HDMI etc. Otherwise use a radio feed from the web via a web browser or an app of your choosing.
+1) If you're using an external audio device, connect it to your PC via headphone jack or line/aux out to "line in" on your PC. Or if you're using a receiver to get OTA (over the air) radio you can connect to you PC via the TosLink or HDMI etc. Otherwise use a radio feed from the web via a web browser or an app of your choosing.
 
-2) Queue up for radio broadcast to test and make sure you're getting sound through your speakers.
+2) Queue up a radio broadcast to test and make sure you're getting sound through your speakers.
 
 
 
@@ -41,13 +41,13 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 2) Have the radio broadcast playing.
 
-3) In the taskbar, right-click the speaker icon (usually found on the bottom right on the taskbar) and click **Playback devices**
+3) In the taskbar, right-click the speaker icon (usually found on the right of the taskbar) and click **Playback devices**
 
 4) You will see a list of sound options, one of them being **Cable Input - VB - Audio Virtual Cable**. Select it and click **Set Default**. If this option is greyed out, right-click **Cable Input - VB - Audio Virtual Cable** and choose **Enable**.
+
+<img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/sound.jpg">
 	
 	Sound will stop coming from your speakers. DON'T WORRY. This is part of the magic.
-	
-<img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/sound.jpg">
 
 If you want listen to the intermission through the TV broadcast instead of the radio or when the game is done, just switch the audio input like you did in section 3 & 4 back to it's original settings. Follow section 3 & 4 again when intermission is done. 
 
@@ -56,15 +56,15 @@ If you want listen to the intermission through the TV broadcast instead of the r
 
 1) Download and install Radio Delay if you haven't done so already, then open it.
 
-2) Under **Input Device** choose **VB-Audio Virtual** from the drop-down menu. **Output** should be your speakers you'll be listening through.
+2) Under **Input Device** choose **VB-Audio Virtual** from the drop-down menu. **Output** should be your speakers (audio output) you'll be listening through.
 
 <img src="https://raw.githubusercontent.com/timetoleafs/radiodelay4bowen/master/images/radiodelay.jpg">
 
-3) Under **Delay in seconds** either use the slider, or use the input box to set the delay time to get it pefectly in sync with the video.
+3) Under **Delay in seconds** either use the slider or use the input box to set the delay time.
 
-4) Hit the play button under **Control**.
+4) Hit the play button under **Control**. It may take a few tries to find the right delay time to pefectly sync with the video.
 
-Holy Mackinaw! You now have the sweet dolcet tones of Bowen's call pumping through your speakers all in sync with the video feed.
+Holy Mackinaw! You now have the sweet dolcet tones of Bowen's call pumping through your speakers in sync with the video feed.
 
 ________________________________________
 
