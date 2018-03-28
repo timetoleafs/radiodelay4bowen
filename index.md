@@ -2,7 +2,7 @@
 
 **The following is for PC/Windows machines**
 
-For Mac, you can use <a href="http://www.silentway.com/forum/how-sync-radio-tv-simulcast-simple-free-method" target="new">this method</a>. I haven't tested, but thought I'd include it anyways as a fellow Mac user. 
+For Mac, you can use <a href="http://www.silentway.com/forum/how-sync-radio-tv-simulcast-simple-free-method" target="new">this method</a>. I haven't tested it, but thought I'd include it anyways as a fellow Mac user. 
 
 Apologies Linux users, I don't have a method for you, but if you're using Linux, something tells me you're more than capable of finding a way ;)
 
