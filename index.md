@@ -1,4 +1,4 @@
-## How to get Bowen (or any other radio broadcaster) synced to your TV
+## How to get Bowen (or any other radio sports broadcaster) synced to your TV
 
 **The following is for PC/Windows machines**
 
