@@ -14,7 +14,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 2) An audio cable*
 
-	* Depending on your device you may need an audio cable to connect it to your computer, so either a 3.5mm cable (for headphone/aux/line outputs), a TosLink, HMDI etc. If you're using the same computer to delay the radio feed and play the audio, you don't need a cable.
+	* Depending on your device you may need an audio cable to connect it to your computer, so either a 3.5mm cable (for headphone/aux/line outputs), a TosLink, HDMI etc. If you're using the same computer to delay the radio feed and play the audio, you don't need a cable.
 
 **Apps:**
 
@@ -29,7 +29,7 @@ Apologies Linux users, I don't have a method for you, but if you're using Linux,
 
 **Part One:**
 
-1) If you're using an external audio device, connect it to your PC via headphone jack or line/aux out to "line in" on your PC. Or if you're using a receiver to get OTA (over the air) radio you can connect to you PC via the TosLink or HDMI etc. Otherwise use a radio feed from the web via a web browser or an app of your choosing.
+1) If you're using an external audio device, connect it to your PC via headphone jack or line/aux out to "line in" on your PC. Or if you're using a receiver to get OTA (over the air) radio you can connect to you PC via the TosLink or HDMI, etc. Otherwise you can use a radio feed from the web via a web browser or an app of your choosing.
 
 2) Queue up a radio broadcast to test and make sure you're getting sound through your speakers.
 
@@ -64,7 +64,7 @@ If you want listen to the intermission from the TV broadcast instead of the radi
 
 4) Hit the play button under **Control**. It may take a few tries to find the right delay time to pefectly sync with the video.
 
-Holy Mackinaw! You now have the sweet dolcet tones of Bowen's call pumping through your speakers in sync with the video feed.
+Holy Mackinaw! You now have the sweet dulcet tones of Bowen's call pumping through your speakers in sync with the video feed.
 
 ________________________________________
 
