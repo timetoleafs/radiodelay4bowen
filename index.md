@@ -6,7 +6,7 @@ For Mac, you can use <a href="http://www.silentway.com/forum/how-sync-radio-tv-s
 
 Apologies Linux users, I don't have a method for you, but if you're using Linux, something tells me you're more than capable of finding a way ;)
 
-If you have a PVR you don't need to do any of this unless the radio broadcast is ahead of the TV feed. You can pause your TV feed until the radio broadcast catches up. You could even ask your smart home device (Google Home, Alexa etc.) to find the radio feed.
+If you have a PVR you don't need to do any of this unless the radio broadcast is ahead of the TV feed. You can pause your TV feed until the radio broadcast catches up. You could even ask your smart home device (Google Home, Echo etc.) to find the radio feed.
 
 
 ### REQUIREMENTS:
